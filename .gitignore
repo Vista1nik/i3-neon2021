@@ -1,0 +1,15 @@
+*
+
+!cava
+!cava/*
+!i3
+!i3/*
+!kitty
+!kitty/*
+!polybar
+!polybar/*
+!rofi
+!rofi/*
+!compton.conf
+
+!.gitignore
